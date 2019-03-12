@@ -35,7 +35,7 @@ const WeatherCases = {
     subtitle: "ㄴ!",
     icon: "weather-snowy"
   },
-  Drizzel: {
+  Drizzle: {
     colors: ["#89F7FE", "#66A6FF"],
     title: "이슬비!",
     subtitle: "촉촉",
